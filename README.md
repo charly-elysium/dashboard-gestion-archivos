@@ -30,7 +30,7 @@ Pasos para la instalación
 
     1.Clona este repositorio:
 
-git clone https://github.com/tu_usuario/proyecto-gestion-archivos.git
+git clone https://github.com/charly-elysium/dashboard-gestion-archivos.git
 
 2.Navega al directorio del proyecto:
 
